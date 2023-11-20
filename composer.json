@@ -1,0 +1,15 @@
+{
+    "name": "ziplaravelproject/ziplaravelconvertproject",
+    "autoload": {
+        "psr-4": {
+            "Ziplaravelproject\\Ziplaravelconvertproject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bhadresh siddhapara",
+            "email": "b4bhadresh2020@gmail.com"
+        }
+    ],
+    "require": {}
+}
