@@ -11,5 +11,12 @@
             "email": "b4bhadresh2020@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Laravelzipconvertproject\\Providers\\ZipServiceProvider"
+            ]
+        }
+    }
 }
